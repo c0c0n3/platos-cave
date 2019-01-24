@@ -14,6 +14,9 @@ Foundations
 * [An intro to statistical learning](http://www-bcf.usc.edu/~gareth/ISL/)
   (simplified version of the below)
 * [The elements of statistical learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
+* [Statistical Learning Theory and Applications](http://www.mit.edu/~9.520/fall18/)
+  (MIT graduate-level course; also includes lectures on neural networks and
+  deep learning)
 
 
 Readings
