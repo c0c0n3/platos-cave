@@ -41,15 +41,17 @@ guide to OAuth 2 and OpenID Connect.
 
 For starters:
 
-1. Watch [OAuth 2.0 and OpenID Connect (in plain English)][oidc-in-plain-en],
+1. If you like my writing, try: [OAuth 2.0 Distilled][oauth2-distilled]
+   (how's that for shameless self promotion?!)
+2. Watch [OAuth 2.0 and OpenID Connect (in plain English)][oidc-in-plain-en],
    slides [here][oidc-in-plain-en.slides]
-2. Same as above but in a slightly different sauce, if you'd rather read:
+3. Same as above but in a slightly different sauce, if you'd rather read:
    [What the Heck is OAuth?][wot-d-heck-is-oauth]---covers OpenID Connect
    too.
-3. This one article only covers OAuth 2 from a conceptual standpoint, but
+4. This one article only covers OAuth 2 from a conceptual standpoint, but
    is quite nice with lots of diagrams:
    [The Simplest Guide To OAuth 2.0][simplest-oauth2].
-4. Also there's a (official?) [getting-started guide][oauth2-simplified].
+5. Also there's a (official?) [getting-started guide][oauth2-simplified].
 
 Main course:
 
@@ -86,6 +88,8 @@ Some other resources worth checking out:
     "Full-Scratch Implementor of OAuth and OpenID Connect Talks About Findings"
 [oauth2-4-mobile-n-native]: https://developer.okta.com/blog/2018/12/13/oauth-2-for-native-and-mobile-apps
     "OAuth 2.0 for Native and Mobile Apps"
+[oauth2-distilled]: ./oauth2-distilled.md
+    "OAuth 2.0 Distilled"
 [oauth2-flows-diagrams]: https://medium.com/@darutk/diagrams-and-movies-of-all-the-oauth-2-0-flows-194f3c3ade85
     "Diagrams And Movies Of All The OAuth 2.0 Flows"
 [oauth2-formal-sec]: https://arxiv.org/pdf/1601.01229.pdf
